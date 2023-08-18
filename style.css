@@ -8,6 +8,7 @@ header {
   background-color: #70A4A2;
   color: #fff;
   padding: 20px;
+  width: 1580px;
 }
 
 nav {
@@ -24,6 +25,7 @@ nav {
 .nav-links {
   list-style: none;
   display: flex;
+  margin-right: 40px;
 }
 
 .nav-links li {
@@ -73,7 +75,7 @@ body{
 footer {
     background-color:#70A4A2;
     color: #fff;
-    width: 98%;
+    width: 100%;
     padding: 20px;
     margin-top: -22%;
     height: 320px;
