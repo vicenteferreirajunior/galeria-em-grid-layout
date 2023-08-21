@@ -24,6 +24,7 @@ nav {
 .nav-links {
   list-style: none;
   display: flex;
+  margin-right: 40px;
 }
 
 .nav-links li {
@@ -44,11 +45,11 @@ nav {
 }
 
 img{
-    object-fit: cover;
-    width: 280px;
-    height: 300px;
-    transform: translateX(-110%);
-    margin-top: 100px;
+  object-fit: cover;
+  width: 280px;
+  height: 300px;
+  transform: translateX(-114%);
+  margin-top: 100px;
 }
 
 
@@ -65,19 +66,17 @@ img{
 }
 
 
+
 body{
     background-color: white;
 }
 
 
 footer {
-    background-color:#70A4A2;
-    color: #fff;
-    width: 98%;
-    padding: 20px;
-    margin-top: -22%;
-    height: 320px;
-  }
+  background-color:#70A4A2;
+  color: #fff;
+ 
+}
   
   .container {
     width: 80%;
